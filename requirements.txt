@@ -196,7 +196,7 @@ pyreadline==2.1
 pyrsistent
 PySocks
 python-dateutil
-pywin32
+pypiwin32
 pywinpty==0.5.7
 pyzmq
 qtconsole
