@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 absl-py
 anyio==3.3.4
 argcomplete
